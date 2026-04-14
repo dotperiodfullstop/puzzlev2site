@@ -1,0 +1,3 @@
+User-agent: *
+
+# [placeholder for the link to next stage]
